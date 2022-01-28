@@ -6,7 +6,7 @@ smaller tanks for the same propellant mass, boils at higher temperature, which
 saves cryostat electricity usage. And gives higher thrust in NTRs.
 
 It is mainly for players who want to use beautiful mods of Nertea, but do not 
-want their game to be too technical and number-y like [Interstellar ex][3].
+want their game to be too technical and number-y like [Interstellar extended][3].
 
 [Dennis Nikitaev][1] featured in [project rho][2] predicts that ammonia 
 propellant would result in 2x more thrust at 41% Isp. KSP-IE uses 1.4x thrust 
@@ -19,7 +19,7 @@ and 63% Isp. As a compromise, this patchset uses 1.6-1.7x thrust and 60% Isp.
 All multimode NTRs featuring LH2/LF switching are converted to LH2/NH3.
 
 The Neptune, Scylla and Poseidon LA-NTRs are stripped of their oxidizer 
-augmented mode and given NH3 modes instead.
+augmented mode and given NH3 modes instead. The Stubber was left unmodified.
 
 The Deliverance lightbulb rocket has been extended with ammonia mode.
 
@@ -43,4 +43,4 @@ Recommends:
 [Procedural Parts](https://forum.kerbalspaceprogram.com/index.php?/topic/204080-*/),
 [Rational Resources](https://forum.kerbalspaceprogram.com/index.php?/topic/184875-*/).
 
-Supports: [SMURFF](https://forum.kerbalspaceprogram.com/index.php?/topic/117992-17-19-smurff-simple-module-adjustments-for-real-ish-fuel-mass-fractions-191-02019-nov-12/).
+Supports: [SMURFF](https://forum.kerbalspaceprogram.com/index.php?/topic/117992-*/).
