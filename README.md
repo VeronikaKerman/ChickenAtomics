@@ -8,6 +8,9 @@ saves cryostat electricity usage. And gives higher thrust in NTRs.
 It is mainly for players who want to use beautiful mods of Nertea, but do not 
 want their game to be too technical and number-y like [Interstellar extended][3].
 
+As a bonus, mass and thrust of those engines are patched with SMURFF 
+factors, if the mod is installed.
+
 [Dennis Nikitaev][1] featured in [project rho][2] predicts that ammonia 
 propellant would result in 2x more thrust at 41% Isp. KSP-IE uses 1.4x thrust 
 and 63% Isp. As a compromise, this patchset uses 1.6-1.7x thrust and 60% Isp.
@@ -16,14 +19,14 @@ and 63% Isp. As a compromise, this patchset uses 1.6-1.7x thrust and 60% Isp.
 [2]: http://www.projectrho.com/public_html/rocket/enginelist2.php
 [3]: https://forum.kerbalspaceprogram.com/index.php?/topic/172026-*
 
-All multimode NTRs featuring LH2/LF switching are converted to LH2/NH3.
+Nerv and Cherenkov NTRs featuring LH2/LF switching are converted to LH2/NH3.
 
 The Neptune, Scylla and Poseidon LA-NTRs are stripped of their oxidizer 
 augmented mode and given NH3 modes instead. The Stubber was left unmodified.
 
 The Deliverance lightbulb rocket has been extended with ammonia mode.
 
-The two later patches can be easily extended to other engines if desired
+The patches can be easily extended to other engines if desired
 just by adding another part name in the PART line.
 
 Lastly, LqdAmmonia configuration has been added to procedural liquid tank,
