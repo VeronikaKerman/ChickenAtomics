@@ -47,3 +47,5 @@ Recommends:
 [Rational Resources](https://forum.kerbalspaceprogram.com/index.php?/topic/184875-*/).
 
 Supports: [SMURFF](https://forum.kerbalspaceprogram.com/index.php?/topic/117992-*/).
+
+By Veronika Kerman
