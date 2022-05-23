@@ -1,3 +1,5 @@
 @thumbs/
 *.bak
 *~
+*.prune
+/*.zip
