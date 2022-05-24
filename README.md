@@ -6,3 +6,4 @@ Veronika Kerman Mods
 * Rutherford: Electric pump-fed engine
 * VeUKerbS: Patch to move around engines in UnKerballedStart
 * ConstructRR: Global Construction interation with rational resources
+* LessPlanets: Reduce the number of OPM moons for performance
